@@ -77,7 +77,7 @@
     "vue-observe-visibility": "^1.0.0",
     "vue-router": "^3.6.5",
     "vuex": "^3.6.2",
-    "youtubei.js": "^9.2.0"
+    "youtubei.js": "^10.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.3",
@@ -89,7 +89,7 @@
     "copy-webpack-plugin": "^12.0.2",
     "css-loader": "^6.10.0",
     "css-minimizer-webpack-plugin": "^6.0.0",
-    "electron": "^29.1.6",
+    "electron": "22.3.25",
     "electron-builder": "^24.13.3",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
@@ -111,7 +111,7 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.38",
     "postcss-scss": "^4.0.9",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "rimraf": "^5.0.5",
     "sass": "^1.72.0",
     "sass-loader": "^14.1.1",
