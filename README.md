@@ -1,3 +1,5 @@
+This is a fork of FreeTube based on 0.20.0 maintained to work with on Win7/8/8.1
+
 <p align="center">
  <img alt="" src="https://docs.freetubeapp.io/images/logoColor.png" width=500 align="center">
 </p>
