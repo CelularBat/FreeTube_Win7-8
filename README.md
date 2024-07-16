@@ -1,5 +1,5 @@
 <p align="center">
-<h2> This is a fork of <a href="https://github.com/FreeTubeApp/FreeTube">FreeTube</a> based on <a href="https://github.com/FreeTubeApp/FreeTube/releases/tag/v0.20.0-beta">0.20.0 version</a> ,maintained to work with on Win7/8/8.1
+<h2> This is a fork of <a href="https://github.com/FreeTubeApp/FreeTube">FreeTube</a> based on <a href="https://github.com/FreeTubeApp/FreeTube/releases/tag/v0.20.0-beta">0.20.0 version</a> ,maintained to be working on Win7/8/8.1
 </h2>
 <hr>
 <h3> Disclaimer:</h3>
