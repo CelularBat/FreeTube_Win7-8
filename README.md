@@ -1,7 +1,8 @@
 <p align="center">
-## This is a fork of <a href="https://github.com/FreeTubeApp/FreeTube">FreeTube</a> based on <a href="https://github.com/FreeTubeApp/FreeTube/releases/tag/v0.20.0-beta">0.20.0 version</a> ,maintained to work with on Win7/8/8.1
+<h2> This is a fork of <a href="https://github.com/FreeTubeApp/FreeTube">FreeTube</a> based on <a href="https://github.com/FreeTubeApp/FreeTube/releases/tag/v0.20.0-beta">0.20.0 version</a> ,maintained to work with on Win7/8/8.1
+</h2>
 <hr>
-# Disclaimer:
+<h3> Disclaimer:</h3>
 
 I am not a proffesional developer and I maintain this fork mainly for my personal use. The goal of this fork is to keep FreeTube running and being usable on Win 7/8/8.1 systems, for as long as possible. Considering that Youtube keeps creating new problems for 3rd-party clients it won't be easy to keep this fork working outside of the main application branch.
 
