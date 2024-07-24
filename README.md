@@ -4,7 +4,7 @@
 <hr>
 <h3> Disclaimer:</h3>
 
-I am not a proffesional developer and I maintain this fork mainly for my personal use. The goal of this fork is to keep FreeTube running and being usable on Win 7/8/8.1 systems, for as long as possible. Considering that Youtube keeps creating new problems for 3rd-party clients it won't be easy to keep this fork working outside of the main application branch.
+Keep in mind that I am not a professional developer and I maintain this fork mainly for my personal use. The goal of this fork is to keep FreeTube running and being usable on Win 7/8/8.1 systems, for as long as possible. Considering that Youtube keeps creating new problems for 3rd-party clients it won't be easy to keep this fork working outside of the main application branch.
 
 Since version 0.20.0 FreeTube has dropped support for Windows < 10, by dropping older electron version. 
 This fork uses legacy electron version 22.3.25, the last version of electron working  on older Windows systems. The same electron version which was used for FreeTube versions < 0.20.0. 
